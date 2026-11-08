@@ -6,7 +6,7 @@
 const https = require('https');
 
 // Ссылка на ваш основной файл скрипта (например, GitHub Raw)
-const SCRIPT_URL = "https://raw.githubusercontent.com/your-username/your-repo/main/anvelope.lua";
+const SCRIPT_URL = "https://raw.githubusercontent.com/Sigma703/Dekowhyfling/refs/heads/main/Anvelope.js";
 
 // Защита от повторного запуска
 global.AnvelopeLoaded = global.AnvelopeLoaded || false;
